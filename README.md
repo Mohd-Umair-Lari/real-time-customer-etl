@@ -33,23 +33,23 @@ This project simulates a real-world ETL (Extract, Transform, Load) data engineer
 
 1. Clone the repository:
 
-git clone https://github.com/Mohd-Umair-Lari/real-time-customer-etl.git
+$git clone https://github.com/Mohd-Umair-Lari/real-time-customer-etl.git
 
-cd real-time-customer-etl
+$cd real-time-customer-etl
 
 2. Install dependencies:
 
-pip install -r requirements.txt
+$pip install -r requirements.txt
 
 
 3. Run the ETL pipeline:
 
-python main.py
+$python main.py
 
 
 4. View data insights:
 
-python analyze.py
+$python analyze.py
 
 
 ## 📊 Sample Output
