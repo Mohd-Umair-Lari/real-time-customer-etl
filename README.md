@@ -60,5 +60,3 @@ python analyze.py
 ## 👨‍💻 Author
 
 Mohd Umair Lari  
-[LinkedIn](https://www.linkedin.com/in/mohd-umair-lari/)  
-[GitHub](https://github.com/Mohd-Umair-Lari)  
