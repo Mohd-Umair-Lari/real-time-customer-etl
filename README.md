@@ -25,6 +25,7 @@ real-time-customer-etl/
 1. Clone the repository:
 
 git clone https://github.com/Mohd-Umair-Lari/real-time-customer-etl.git
+
 cd real-time-customer-etl
 
 2. Install dependencies:
