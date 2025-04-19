@@ -12,7 +12,7 @@ This project simulates a real-world ETL (Extract, Transform, Load) data engineer
 
 ## 📁 Project Structure
 
-real-time-customer-etl/ 
+**real-time-customer-etl**
 
 ├── extract.py # Pulls product data from the API 
 
