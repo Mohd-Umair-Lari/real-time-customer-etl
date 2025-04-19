@@ -14,11 +14,17 @@ This project simulates a real-world ETL (Extract, Transform, Load) data engineer
 
 real-time-customer-etl/ 
 ├── extract.py # Pulls product data from the API 
+
 ├── transform.py # Cleans and formats data using Pandas 
+
 ├── load.py # Loads data into SQLite ├── main.py # Orchestrates the ETL pipeline 
+
 ├── analyze.py # Visualizes price distribution 
+
 ├── requirements.txt # Python libraries required 
+
 ├── README.md # This file
+
 
 ## 🧪 How to Run
 
